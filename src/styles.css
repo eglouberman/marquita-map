@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(36, 88, 111);
+}
+
+.bk-plot-wrapper table {
+    margin: 0 auto;
+}
+
+@media only screen and (max-width: 600px) {
+    iframe-embed {
+      max-height: 80%;
+    }
+  }
