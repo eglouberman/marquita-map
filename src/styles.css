@@ -1,0 +1,13 @@
+body {
+    background-color: powderblue;
+  }
+
+.bk-plot-wrapper table {
+    margin: 0 auto;
+}
+
+img {
+    margin-left:auto;
+    margin-right:auto;
+    width: 50%;
+}
